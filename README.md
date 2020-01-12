@@ -1,1 +1,1 @@
-# SeamlessFkIk_MayaNode
+# SeamlessFkIk_PyMayaNode
